@@ -1,0 +1,3 @@
+/home/poppfd/Development/C++_Dev/Tetris/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/poppfd/Development/C++_Dev/Tetris/cmake-build-debug/CMakeFiles/Tetris_Program.dir
+/home/poppfd/Development/C++_Dev/Tetris/cmake-build-debug/CMakeFiles/edit_cache.dir

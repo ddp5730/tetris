@@ -1,0 +1,4 @@
+/opt/clion-2019.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/poppfd/Development/C++_Dev/Tetris
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/poppfd/Development/C++_Dev/Tetris/cmake-build-debug

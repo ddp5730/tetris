@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++  -g   CMakeFiles/Tetris.dir/src/Tetris_Program.cpp.o  -o Tetris 

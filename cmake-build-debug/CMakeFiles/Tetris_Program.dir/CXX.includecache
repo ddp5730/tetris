@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/poppfd/Development/C++_Dev/Tetris/src/Tetris_Program.cpp
+iostream
+-
+Tetris_Program.h
+/home/poppfd/Development/C++_Dev/Tetris/src/Tetris_Program.h
+
+/home/poppfd/Development/C++_Dev/Tetris/src/Tetris_Program.h
+
